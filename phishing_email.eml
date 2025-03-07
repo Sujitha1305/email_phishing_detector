@@ -1,0 +1,19 @@
+From: security@paypalsupport.com
+To: victim@example.com
+Subject: Urgent: Your PayPal Account Has Been Suspended!
+Date: Fri, 07 Mar 2025 12:34:56 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+<p>We have detected <b>unusual activity</b> on your PayPal account and for your security, we have <b>temporarily suspended</b> access.</p>
+<p>Click the secure link below and follow the instructions to reactivate your account:</p>
+<p><a href="http://fake-paypal-secure-login.com">Verify Your Account Now</a></p>
+<p>If you do not complete the verification within <b>24 hours</b>, your account may be permanently disabled.</p>
+<p>Thank you for your prompt attention.</p>
+<p>Sincerely,</p>
+<p><b>PayPal Security Team</b></p>
+</body>
+</html>
