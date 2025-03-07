@@ -1,4 +1,4 @@
-# email_phishing
+# email_phishing_detector
 It detects whilst a mail is fake.
 
 I have taken a sample file (phishing_email.eml).
